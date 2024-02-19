@@ -210,7 +210,7 @@
 		errorsElement.appendChild(detailsElement);
 		addStyle(`
 		* {
-			font-family: BIZ UDGothic, Roboto, HelveticaNeue, Arial, sans-serif;
+			font-family: 'QQ Kasem Mod', Segoe UI, HelveticaNeue, 'Garuda', BIZ UDGothic, Roboto, Arial, sans-serif;
 		}
 
 		#misskey_app,
