@@ -1,4 +1,18 @@
 <div align="center">
+
+This repository is a fork from the original Misskey, which is used by the Misskey server “[มิสคีย์ นะ.ไทย](https://th.na.in.th)”.
+
+</div>
+
+## 🔧 Differences from the original
+
+- Change default font that suit for Thai / Gamm-myaang language.
+- Add ᨣᩤᩴᨾᩮᩬᩨᨦ/คำเมือง (Gamm-myaang) to the display language.
+- Modified some UI parts
+
+---
+
+<div align="center">
 <a href="https://misskey-hub.net">
 	<img src="./assets/title_float.svg" alt="Misskey logo" style="border-radius:50%" width="400"/>
 </a>
