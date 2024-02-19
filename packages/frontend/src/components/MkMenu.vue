@@ -292,7 +292,7 @@ onBeforeUnmount(() => {
 	box-sizing: border-box;
 	white-space: nowrap;
 	font-size: 0.9em;
-	line-height: 20px;
+	line-height: 30px;
 	text-align: left;
 	overflow: hidden;
 	text-overflow: ellipsis;

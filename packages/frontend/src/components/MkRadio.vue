@@ -122,7 +122,7 @@ function toggle(): void {
 .label {
 	margin-left: 28px;
 	display: block;
-	line-height: 20px;
+	line-height: 30px;
 	cursor: pointer;
 }
 </style>

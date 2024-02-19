@@ -83,7 +83,7 @@ const toggle = () => {
 
 .label {
 	display: block;
-	line-height: 20px;
+	line-height: 30px;
 	cursor: pointer;
 	transition: inherit;
 }

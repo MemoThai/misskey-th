@@ -403,7 +403,7 @@ onUnmounted(() => {
 							> * {
 								display: inline-block;
 								margin-right: 16px;
-								line-height: 20px;
+								line-height: 30px;
 								opacity: 0.8;
 
 								&.username {
