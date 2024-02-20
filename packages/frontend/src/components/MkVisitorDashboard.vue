@@ -202,7 +202,7 @@ function exploreOtherServers() {
 }
 
 .mainAction {
-	line-height: 28px;
+	line-height: 30px;
 }
 
 .stats {

@@ -625,7 +625,7 @@ defineExpose({
 				position: sticky;
 				top: 0;
 				left: 0;
-				line-height: 28px;
+				line-height: 30px;
 				z-index: 1;
 				padding: 0 8px;
 				font-size: 12px;

@@ -227,7 +227,7 @@ function onDragend() {
 	width: 120px;
 	margin: 0;
 	text-align: center;
-	line-height: 28px;
+	line-height: 30px;
 	color: #fff;
 	transform: rotate(-45deg);
 }

@@ -231,7 +231,7 @@ onUnmounted(() => {
 			overflow: hidden;
 			text-overflow: ellipsis;
 			white-space: nowrap;
-			line-height: 1.1;
+			line-height: 2;
 
 			> .subtitle {
 				opacity: 0.6;

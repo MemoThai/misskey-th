@@ -638,7 +638,7 @@ function emitUpdReaction(emoji: string, delta: number) {
 	display: flex;
 	align-items: center;
 	padding: 16px 32px 8px 32px;
-	line-height: 28px;
+	line-height: 30px;
 	white-space: pre;
 	color: var(--renote);
 
@@ -687,7 +687,7 @@ function emitUpdReaction(emoji: string, delta: number) {
 .collapsedRenoteTarget {
 	display: flex;
 	align-items: center;
-	line-height: 28px;
+	line-height: 30px;
 	white-space: pre;
 	padding: 0 32px 18px;
 }

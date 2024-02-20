@@ -14,7 +14,7 @@ SPDX-License-Identifier: AGPL-3.0-only
 			<span>({{ i18n.ts._reversi.white }})</span>
 		</div>
 
-		<div style="overflow: clip; line-height: 28px;">
+		<div style="overflow: clip; line-height: 30px;">
 			<div v-if="!iAmPlayer && !game.isEnded && turnUser">
 				<Mfm :key="'turn:' + turnUser.id" :text="i18n.tsx._reversi.turnOf({ name: turnUser.name ?? turnUser.username })" :plain="true" :customEmojis="turnUser.emojis"/>
 				<MkEllipsis/>
