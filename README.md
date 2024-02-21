@@ -1,6 +1,6 @@
 <div align="center">
 
-This repository is a fork from the original Misskey, which is used by the Misskey server “[มิสคีย์ นะ.ไทย](https://th.na.in.th)”.
+This repository is a fork from the original Misskey, which is used by the Misskey server “[มิสคีย์ นะ.ไทย](https://mk.na.in.th)”.
 
 </div>
 
