@@ -1215,6 +1215,7 @@ hemisphere: "居住地区"
 withSensitive: "显示包含敏感媒体的帖子"
 userSaysSomethingSensitive: "含 {name} 敏感文件的帖子"
 enableHorizontalSwipe: "滑动切换标签页"
+surrender: "取消"
 _bubbleGame:
   howToPlay: "游戏说明"
   _howToPlay:
@@ -2377,6 +2378,7 @@ _moderationLogTypes:
   resetPassword: "重置密码"
   suspendRemoteInstance: "停止远程服务器"
   unsuspendRemoteInstance: "恢复远程服务器"
+  updateRemoteInstanceNote: "更新远程服务器的管理笔记"
   markSensitiveDriveFile: "标记网盘文件为敏感媒体"
   unmarkSensitiveDriveFile: "取消标记网盘文件为敏感媒体"
   resolveAbuseReport: "处理举报"
