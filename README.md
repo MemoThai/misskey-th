@@ -9,6 +9,7 @@ This repository is a fork from the original Misskey, which is used by the Misske
 - Change default font that suit for Thai / Gamm-myaang language.
 - Add ᨣᩤᩴᨾᩮᩬᩨᨦ/คำเมือง (Gamm-myaang) to the display language.
 - Modified some UI parts
+- Update l10n according to 'upstream/l10n_develop' branch every 2 days or 1 week.
 
 ---
 
