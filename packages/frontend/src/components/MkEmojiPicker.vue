@@ -558,6 +558,7 @@ defineExpose({
 		width: 100%;
 		padding: 12px;
 		box-sizing: border-box;
+		font-family: inherit;
 		font-size: 1em;
 		outline: none;
 		border: none;
