@@ -446,11 +446,11 @@ body {
 .navButton {
 	position: relative;
 	padding: 0;
-	aspect-ratio: 1;
+	aspect-ratio: 1.5;
 	width: 100%;
 	max-width: 60px;
 	margin: auto;
-	border-radius: 100%;
+	border-radius: 999px;
 	background: var(--panel);
 	color: var(--fg);
 
