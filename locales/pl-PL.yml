@@ -439,7 +439,7 @@ nUsersMentioned: "{n} wspomnianych użytkowników"
 securityKeyAndPasskey: "Klucz bezpieczeństwa i klucze Passkey"
 securityKey: "Klucz bezpieczeństwa"
 lastUsed: "Ostatnio używane"
-lastUsedAt: "Ostatnio używane w"
+lastUsedAt: "Ostatnio używane: {t}"
 unregister: "Cofnij rejestrację"
 passwordLessLogin: "Skonfiguruj logowanie bez użycia hasła"
 passwordLessLoginDescription: "Opis logowania bez użycia hasła"
@@ -933,7 +933,7 @@ check: "Zweryfikuj"
 driveCapOverrideLabel: "Zmień limit pojemności dysku użytkownika"
 requireAdminForView: "Aby to zobaczyć, musisz być administratorem"
 isSystemAccount: "To jest konto stworzone i zarządzane przez system"
-typeToConfirm: "Wielki chuj "
+typeToConfirm: "Wprowadź {x}, aby potwierdzić"
 deleteAccount: "Usuń konto"
 document: "Dokumentacja"
 numberOfPageCache: "Ilość stron w cache"
@@ -1023,6 +1023,10 @@ flip: "Odwróć"
 lastNDays: "W ciągu ostatnich {n} dni"
 surrender: "Odrzuć"
 gameRetry: "Spróbuj ponownie"
+_delivery:
+  stop: "Zawieszono"
+  _type:
+    none: "Publikowanie"
 _bubbleGame:
   _score:
     score: "Wynik"
@@ -1557,4 +1561,3 @@ _moderationLogTypes:
   resetPassword: "Zresetuj hasło"
 _reversi:
   total: "Łącznie"
-
