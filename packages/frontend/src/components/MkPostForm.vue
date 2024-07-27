@@ -1262,7 +1262,7 @@ defineExpose({
 	min-width: 100%;
 	width: 100%;
 	min-height: 90px;
-	height: 400px;
+	height: 100%;
 }
 
 .textCount {
