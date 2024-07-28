@@ -1797,7 +1797,7 @@ _plugin:
   viewSource: "ดูต้นฉบับ"
   viewLog: "แสดงปูม"
 _preferencesBackups:
-  list: "การตั้งค่าสำรองที่สร้างไว้"
+  list: "การตั้งค่าที่สำรองไว้"
   saveNew: "บันทึกการตั้งค่าสำรองใหม่"
   loadFile: "โหลดจากไฟล์"
   apply: "นำไปใช้กับอุปกรณ์นี้"
@@ -2165,7 +2165,7 @@ _poll:
   deadlineTime: "เวลา"
   duration: "ระยะเวลา"
   votesCount: "{n} คะแนนเสียง"
-  totalVotes: "{n} คะแนนเสียงทั้งหมด"
+  totalVotes: "ทั้งหมด {n} คะแนนเสียง"
   vote: "โหวต"
   showResult: "ดูผลลัพธ์"
   voted: "โหวตแล้ว"
