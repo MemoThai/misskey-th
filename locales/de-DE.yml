@@ -1423,9 +1423,12 @@ _imageEditing:
     camera_lens_model: "Objektivname"
     camera_mm: "Brennweite"
     camera_mm_35: "Brennweite (35-mm-Äquivalent)"
+<<<<<<< HEAD
     camera_f: "Blende"
     camera_s: "Verschlusszeit"
     camera_iso: "ISO-Empfindlichkeit"
+=======
+>>>>>>> 440a35978f (feat(l12n): Upstream)
     gps_lat: "Breitengrad"
     gps_long: "Längengrad"
 _imageFrameEditor:
@@ -1433,6 +1436,7 @@ _imageFrameEditor:
   tip: "Sie können das Bild dekorieren, indem Sie einen Rahmen sowie ein Etikett mit Metadaten hinzufügen."
   header: "Kopfzeile"
   footer: "Fußzeile"
+<<<<<<< HEAD
   borderThickness: "Randbreite"
   labelThickness: "Beschriftungsbreite"
   labelScale: "Etikettenskala"
@@ -1441,12 +1445,16 @@ _imageFrameEditor:
   captionSub: "Beschriftung (klein)"
   availableVariables: "Verfügbare Variablen"
   withQrCode: "QR-Code"
+=======
+  centered: "Zentriert"
+>>>>>>> 440a35978f (feat(l12n): Upstream)
   backgroundColor: "Hintergrundfarbe"
   textColor: "Textfarbe"
   font: "Schriftart"
   fontSerif: "Serif"
   fontSansSerif: "Sans Serif"
   quitWithoutSaveConfirm: "Nicht gespeicherte Änderungen verwerfen?"
+<<<<<<< HEAD
   failedToLoadImage: "Das Laden des Bildes ist fehlgeschlagen."
 _compression:
   _quality:
@@ -1457,6 +1465,12 @@ _compression:
     large: "Groß"
     medium: "Medium"
     small: "Klein"
+=======
+_compression:
+  _quality:
+    medium: "Mittlere Qualität"
+    low: "Niedrige Qualität"
+>>>>>>> 440a35978f (feat(l12n): Upstream)
 _order:
   newest: "Neueste zuerst"
   oldest: "Älteste zuerst"
@@ -1549,12 +1563,16 @@ _settings:
   contentsUpdateFrequency_description2: "Wenn der Echtzeitmodus aktiviert ist, werden die Inhalte unabhängig von dieser Einstellung in Echtzeit aktualisiert."
   showUrlPreview: "URL-Vorschau anzeigen"
   showAvailableReactionsFirstInNote: "Zeige die verfügbaren Reaktionen im oberen Bereich an."
+<<<<<<< HEAD
   showPageTabBarBottom: "Tab-Leiste der Seite unten anzeigen"
   emojiPaletteBanner: "Sie können Voreinstellungen, die im Emoji-Picker dauerhaft angezeigt werden sollen, als Palette registrieren oder die Anzeigeart des Pickers anpassen."
   enableAnimatedImages: "Animierte Bilder aktivieren"
   settingsPersistence_title: "Persistenz der Einstellungen"
   settingsPersistence_description1: "Durch das Aktivieren der persistenten Speicherung der Einstellungen kann verhindert werden, dass Einstellungsinformationen verloren gehen."
   settingsPersistence_description2: "Je nach Umgebung ist eine Aktivierung möglicherweise nicht möglich."
+=======
+  enableAnimatedImages: "Animierte Bilder aktivieren"
+>>>>>>> 440a35978f (feat(l12n): Upstream)
   _chat:
     showSenderName: "Name des Absenders anzeigen"
     sendOnEnter: "Eingabetaste sendet Nachricht"
@@ -1753,11 +1771,15 @@ _serverSettings:
   userGeneratedContentsVisibilityForVisitor: "Sichtbarkeit von nutzergenerierten Inhalten für Gäste"
   userGeneratedContentsVisibilityForVisitor_description: "Dies ist nützlich, um zu verhindern, dass unangemessene Inhalte, die nicht gut moderiert sind, ungewollt über deinen eigenen Server im Internet veröffentlicht werden."
   userGeneratedContentsVisibilityForVisitor_description2: "Die uneingeschränkte Veröffentlichung aller Inhalte des Servers im Internet, einschließlich der vom Server empfangenen Fremdinhalte, birgt Risiken. Dies ist besonders wichtig für Betrachter, die sich des dezentralen Charakters der Inhalte nicht bewusst sind, da sie selbst fremde Inhalte fälschlicherweise als auf dem Server erstellte Inhalte wahrnehmen könnten."
+<<<<<<< HEAD
   restartServerSetupWizardConfirm_title: "Möchten Sie den Assistenten für die Ersteinrichtung des Servers erneut ausführen?"
   restartServerSetupWizardConfirm_text: "Einige aktuelle Einstellungen werden zurückgesetzt."
   entrancePageStyle: "Stil der Einstiegsseite"
   showTimelineForVisitor: "Zeitleiste anzeigen"
   showActivitiesForVisitor: "Aktivitäten anzeigen"
+=======
+  restartServerSetupWizardConfirm_text: "Einige aktuelle Einstellungen werden zurückgesetzt."
+>>>>>>> 440a35978f (feat(l12n): Upstream)
   _userGeneratedContentsVisibilityForVisitor:
     all: "Alles ist öffentlich"
     localOnly: "Nur lokale Inhalte werden veröffentlicht, fremde Inhalte bleiben privat"
@@ -2554,6 +2576,7 @@ _widgetOptions:
     colored: "Farbig"
   _clock:
     size: "Größe"
+<<<<<<< HEAD
     thickness: "Dicke"
     thicknessThin: "Dünn"
     thicknessMedium: "Normal"
@@ -2572,6 +2595,16 @@ _widgetOptions:
     timezone: "Zeitzone"
     showMs: "Millisekunden anzeigen"
     showLabel: "Beschriftung anzeigen"
+=======
+    thicknessThin: "Dünn"
+    thicknessMedium: "Normal"
+    thicknessThick: "Dick"
+    twentyFour: "24-Stunden-Format"
+    labelTime: "Uhrzeit"
+    labelTz: "Zeitzone"
+    timezone: "Zeitzone"
+    showMs: "Millisekunden anzeigen"
+>>>>>>> 440a35978f (feat(l12n): Upstream)
   _jobQueue:
     sound: "Ton abspielen"
   _rss:
@@ -2580,8 +2613,11 @@ _widgetOptions:
     maxEntries: "Maximale Anzahl der angezeigten Einträge"
   _rssTicker:
     shuffle: "Zufällige Anzeigereihenfolge"
+<<<<<<< HEAD
     duration: "Banner-Scrollgeschwindigkeit (in Sekunden)"
     reverse: "In andere Richtung scrollen"
+=======
+>>>>>>> 440a35978f (feat(l12n): Upstream)
   _birthdayFollowings:
     period: "Dauer"
 _cw:
@@ -2859,6 +2895,7 @@ _deck:
   usedAsMinWidthWhenFlexible: "Ist \"Automatische Breitenanpassung\" aktiviert, wird hierfür die minimale Breite verwendet"
   flexible: "Automatische Breitenanpassung"
   enableSyncBetweenDevicesForProfiles: "Aktivieren der Synchronisierung von Profilinformationen zwischen Geräten"
+<<<<<<< HEAD
   showHowToUse: "Siehe dir die UI-Beschreibung an."
   _howToUse:
     addColumn_title: "Spalte hinzufügen"
@@ -2867,6 +2904,11 @@ _deck:
     settings_description: "Sie können die detaillierten Einstellungen der Deck-UI vornehmen."
     switchProfile_title: "Profil wechseln"
     switchProfile_description: "Das UI-Layout kann als Profil gespeichert werden, sodass du jederzeit zwischen den Profilen wechseln kannst."
+=======
+  _howToUse:
+    addColumn_title: "Spalte hinzufügen"
+    settings_title: "UI-Einstellungen"
+>>>>>>> 440a35978f (feat(l12n): Upstream)
   _columns:
     main: "Hauptspalte"
     widgets: "Widgets"
@@ -3344,7 +3386,10 @@ _watermarkEditor:
   polkadotSubDotOpacity: "Deckkraft des Unterpunktes"
   polkadotSubDotRadius: "Größe des Unterpunktes"
   polkadotSubDotDivisions: "Anzahl der Unterpunkte"
+<<<<<<< HEAD
   leaveBlankToAccountUrl: "Wenn Sie es leer lassen, wird das Profilbild des Kontos verwendet."
+=======
+>>>>>>> 440a35978f (feat(l12n): Upstream)
   failedToLoadImage: "Bild konnte nicht geladen werden"
 _imageEffector:
   title: "Effekte"
@@ -3383,13 +3428,17 @@ _imageEffector:
     normalize: "Normalisierung"
     amount: "Menge"
     lightness: "Erhellen"
+<<<<<<< HEAD
     contrast: "Kontrast"
     hue: "Farbton"
     brightness: "Helligkeit"
+=======
+>>>>>>> 440a35978f (feat(l12n): Upstream)
     saturation: "Sättigung"
     max: "Maximum"
     min: "Minimum"
     direction: "Richtung"
+<<<<<<< HEAD
     phase: "Sättigung"
     frequency: "Häufigkeit"
     strength: "Stärke"
@@ -3403,6 +3452,9 @@ _imageEffector:
     centerY: "Zentrum Y"
     zoomLinesMaskSize: "Mitteldurchmesser"
     circle: "Kreisförmig"
+=======
+    frequency: "Häufigkeit"
+>>>>>>> 440a35978f (feat(l12n): Upstream)
 drafts: "Entwurf"
 _drafts:
   select: "Entwurf auswählen"
