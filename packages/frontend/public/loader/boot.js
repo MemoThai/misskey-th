@@ -229,7 +229,7 @@
 		errorsElement.appendChild(detailsElement);
 		addStyle(`
 		* {
-			font-family: BIZ UDGothic, Roboto, HelveticaNeue, Arial, sans-serif;
+			font-family: BIZ UDGothic, Roboto, HelveticaNeue, Arial, "QQ Kasem Mod", "Garuda", sans-serif;
 		}
 
 		#misskey_app,
@@ -308,7 +308,7 @@
 		}
 
 		code {
-			font-family: Fira, FiraCode, monospace;
+			font-family: Fira, FiraCode, monospace, "QQ Kasem Mod", "Garuda";
 		}
 
 		#errorInfo {

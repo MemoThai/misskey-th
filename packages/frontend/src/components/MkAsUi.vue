@@ -183,7 +183,7 @@ function openPostForm() {
 }
 
 .fontMonospace {
-	font-family: Fira code, Fira Mono, Consolas, Menlo, Courier, monospace;
+	font-family: Fira code, Fira Mono, Consolas, Menlo, Courier, monospace, "QQ Kasem Mod", "Garuda";
 }
 
 .postForm {

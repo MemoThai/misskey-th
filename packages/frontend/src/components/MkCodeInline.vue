@@ -16,7 +16,7 @@ const props = defineProps<{
 <style module lang="scss">
 .root {
 	display: inline-block;
-	font-family: Consolas, Monaco, Andale Mono, Ubuntu Mono, monospace;
+	font-family: Consolas, Monaco, Andale Mono, Ubuntu Mono, monospace, "QQ Kasem Mod", "Garuda";
 	overflow-wrap: anywhere;
 	background: var(--MI_THEME-bg);
 	padding: .1em;

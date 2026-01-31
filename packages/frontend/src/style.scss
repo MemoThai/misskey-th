@@ -1,5 +1,6 @@
 @charset "utf-8";
-
+@import "https://cdn.jsdelivr.net/gh/lazywasabi/thai-web-fonts@7/fonts/Garuda/Garuda.css";
+@import "https://mk.na.in.th/fonts/QQKasemMod.css";
 /*
  * SPDX-FileCopyrightText: syuilo and misskey-project
  *
@@ -25,7 +26,7 @@
 html {
 	overflow: auto;
 	overflow-wrap: break-word;
-	font-family: 'Hiragino Maru Gothic Pro', "BIZ UDGothic", Roboto, HelveticaNeue, Arial, sans-serif;
+	font-family: 'Hiragino Maru Gothic Pro', "QQ Kasem Mod", "Garuda", "BIZ UDGothic", Roboto, HelveticaNeue, Segoe UI, Arial, sans-serif;
 	font-size: 14px;
 	line-height: 1.35;
 	text-size-adjust: 100%;
@@ -496,7 +497,7 @@ rt {
 }
 
 ._monospace {
-	font-family: Fira code, Fira Mono, Consolas, Menlo, Courier, monospace !important;
+	font-family: Fira code, Fira Mono, Consolas, Menlo, Courier, monospace, 'QQ Kasem Mod', Garuda !important;
 }
 
 ._zoom {

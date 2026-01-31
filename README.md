@@ -1,4 +1,18 @@
 <div align="center">
+
+This repository is a fork from the original Misskey, which is used by the Misskey server “[มิสคีย์ นะ.ไทย](https://mk.na.in.th)”.
+
+</div>
+
+## 🔧 Differences from the original
+
+- Change default font that suit for Thai language.
+- Modified some UI parts
+- Update l10n according to 'upstream/l10n_develop' branch ~~every 2 days or 1 week.~~
+
+---
+
+<div align="center">
 <a href="https://misskey-hub.net">
 	<img src="./assets/title_float.svg" alt="Misskey logo" style="border-radius:50%" width="300"/>
 </a>

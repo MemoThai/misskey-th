@@ -105,7 +105,7 @@ function copy() {
 }
 
 .codeBlockFallbackCode {
-	font-family: Consolas, Monaco, Andale Mono, Ubuntu Mono, monospace;
+	font-family: Consolas, Monaco, Andale Mono, Ubuntu Mono, monospace, "QQ Kasem Mod", "Garuda";
 }
 
 .codePlaceholderRoot {

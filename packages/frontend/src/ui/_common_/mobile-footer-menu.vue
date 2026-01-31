@@ -119,12 +119,12 @@ watch(rootEl, () => {
 .itemInner {
 	position: relative;
 	padding: 0;
-	aspect-ratio: 1;
+	aspect-ratio: 1.5;
 	width: 100%;
-	max-width: 42px;
+	max-width: 60px;
 	margin: auto;
 	align-content: center;
-	border-radius: 100%;
+	border-radius: 999px;
 
 	&:hover {
 		background: var(--MI_THEME-panelHighlight);
