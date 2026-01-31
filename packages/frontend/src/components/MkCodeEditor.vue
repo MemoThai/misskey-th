@@ -165,7 +165,7 @@ watch(v, newValue => {
 	color: var(--MI_THEME-fg);
 	border: solid 1px var(--MI_THEME-panel);
 	transition: border-color 0.1s ease-out;
-	font-family: Consolas, Monaco, Andale Mono, Ubuntu Mono, monospace, "QQ Kasem Mod", "Garuda";
+	font-family: Consolas, Monaco, Andale Mono, Ubuntu Mono, monospace, "QQ Kasem Mod", "Garuda", "Talom", "Tai Tham Kasem";
 	&:hover {
 		border-color: var(--MI_THEME-inputBorderHover) !important;
 	}
@@ -209,7 +209,7 @@ watch(v, newValue => {
 	padding: 12px;
 	line-height: 1.5em;
 	font-size: 1em;
-	font-family: Consolas, Monaco, Andale Mono, Ubuntu Mono, monospace, "QQ Kasem Mod", "Garuda";
+	font-family: Consolas, Monaco, Andale Mono, Ubuntu Mono, monospace, "QQ Kasem Mod", "Garuda", "Talom", "Tai Tham Kasem";
 }
 
 .textarea::selection {

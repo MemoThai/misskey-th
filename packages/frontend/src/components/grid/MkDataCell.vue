@@ -416,7 +416,7 @@ $cellHeight: 28px;
 	height: $cellHeight - 2;
 	outline: none;
 	border: none;
-	font-family: 'Hiragino Maru Gothic Pro', "QQ Kasem Mod", "Garuda", "BIZ UDGothic", Roboto, HelveticaNeue, Arial, sans-serif;
+	font-family: 'Hiragino Maru Gothic Pro', "QQ Kasem Mod", "Garuda", "BIZ UDGothic", Roboto, HelveticaNeue, Arial, sans-serif, "Talom", "Tai Tham Kasem";
 }
 
 </style>

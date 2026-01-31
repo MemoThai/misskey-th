@@ -5,7 +5,7 @@
  */
 
 * {
-	font-family: 'Hiragino Maru Gothic Pro', "QQ Kasem Mod", "Garuda", "BIZ UDGothic", Roboto, HelveticaNeue, Segoe UI, Arial, sans-serif;
+	font-family: 'Hiragino Maru Gothic Pro', "QQ Kasem Mod", "Garuda", "BIZ UDGothic", Roboto, HelveticaNeue, Segoe UI, Arial, sans-serif, "Talom", "Tai Tham Kasem";
 }
 
 #misskey_app,
@@ -85,7 +85,7 @@ h1 {
 
 code {
 	display: block;
-	font-family: Fira, FiraCode, "monospace", "QQ Kasem Mod", "Garuda";
+	font-family: Fira, FiraCode, "monospace", "QQ Kasem Mod", "Garuda", "Talom", "Tai Tham Kasem";
 	background: #333;
 	padding: 0.5rem 1rem;
 	max-width: 40rem;

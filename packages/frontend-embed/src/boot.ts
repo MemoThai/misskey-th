@@ -144,7 +144,7 @@ console.log(
 );
 console.log(
 	`%c${i18n.ts._selfXssPrevention.title}`,
-	'color: #f00; font-weight: 900; font-family: "Hiragino Sans W9", "Hiragino Kaku Gothic ProN", "QQ Kasem Mod", "Garuda", sans-serif; font-size: 24px;',
+	'color: #f00; font-weight: 900; font-family: "Hiragino Sans W9", "Hiragino Kaku Gothic ProN", "QQ Kasem Mod", "Garuda", sans-serif, "Talom", "Tai Tham Kasem"; font-size: 24px;',
 );
 console.log(
 	`%c${i18n.ts._selfXssPrevention.description1}`,
