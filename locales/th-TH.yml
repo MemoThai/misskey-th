@@ -1408,10 +1408,7 @@ frame: "เฟรม"
 presets: "พรีเซ็ต"
 zeroPadding: "ห่างเป็น 0"
 nothingToConfigure: "ไม่มีอะไรให้ต้ังค่า"
-<<<<<<< HEAD
 viewRenotedChannel: "แสดงช่องที่ถูกรีโน้ต"
-=======
->>>>>>> 440a35978f (feat(l12n): Upstream)
 _imageEditing:
   _vars:
     caption: "แคปชั่นของไฟล์"
@@ -1556,13 +1553,8 @@ _settings:
   showPageTabBarBottom: "แสดงแท็บบาร์ของเพจที่ด้านล่าง"
   emojiPaletteBanner: "สามารถบันทึกพรีเซ็ตเป็นจานสีเพื่อตรึงไว้ในตัวจิ้มเอโมจิ หรือปรับแต่งวิธีการแสดงผลของตัวจิ้มเอโมจิได้"
   enableAnimatedImages: "เปิดใช้งานภาพเคลื่อนไหว"
-<<<<<<< HEAD
   settingsPersistence_title: "คงสภาพการตั้งค่า"
   settingsPersistence_description1: "เมื่อเปิดใช้งานการคงสภาพการตั้งค่า จะช่วยป้องกันไม่ให้ข้อมูลการตั้งค่าสูญหายได้"
-=======
-  settingsPersistence_title: "ทำการตั้งค่าคงอยู่ถาวร"
-  settingsPersistence_description1: "เมื่อเปิดใช้งานการทำการตั้งค่าคงอยู่ถาวร สามารถป้องกันไม่ให้ข้อมูลการตั้งค่าสูญหายได้"
->>>>>>> 440a35978f (feat(l12n): Upstream)
   settingsPersistence_description2: "แต่ในบางสภาพแวดล้อม อาจไม่สามารถเปิดใช้งานได้"
   _chat:
     showSenderName: "แสดงชื่อผู้ส่ง"
